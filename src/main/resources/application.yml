@@ -1,0 +1,9 @@
+server:
+  port: 9091
+
+spring:
+  data:
+    mongodb:
+      database: Productsdb
+      host: localhost
+      post: 27017
